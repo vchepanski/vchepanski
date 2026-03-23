@@ -1,36 +1,37 @@
-## 👋 Hello, I'm Vanderlei Chepanski!
+# Vanderlei Chepanski
 
-🇧🇷 Brazilian Developer
+**Junior Developer** | Laravel Enthusiast | Brazil
 
-### 👨‍💻 Junior Developer | Systems for Internet Graduate | Laravel Enthusiast | Brazilian
-
-I am a **junior developer** passionate about technology, graduated in **Systems for Internet**, with a primary focus on **Laravel**. I am always looking to improve my skills and develop efficient solutions.
+Systems for Internet graduate passionate about building efficient web solutions. Focused on Laravel ecosystem and always exploring new technologies.
 
 ---
 
-### 🚀 Technologies I Use
+## Tech Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vchepanski&show_icons=true&theme=dracula&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vchepanski&layout=compact&theme=dracula)
+| Backend | Frontend | Database | Tools |
+|---------|----------|----------|-------|
+| PHP | JavaScript | MySQL | Git |
+| Laravel | TailwindCSS | | VSCode |
+| Node.js | HTML/CSS | | |
 
 ---
 
-### 📫 How to Reach Me?
+## Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderlei-chepanski-aba47823b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vchepanski@outlook.com)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vchepanski&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
 ---
 
-💡 Always open to learning and collaborating! Let's build something amazing together. 🚀
+## About
+
+- Building web applications with Laravel and PHP
+- Currently exploring modern frontend frameworks
+- Interested in software architecture and best practices
+- Always learning something new every day
+
+---
+
+## Contact
+
+**LinkedIn:** [vanderlei-chepanski](https://www.linkedin.com/in/vanderlei-chepanski-aba47823b/)  
+**Email:** vchepanski@outlook.com
