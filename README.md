@@ -21,16 +21,6 @@
 
 ---
 
-<div align="center">
-
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=vchepanski&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15" alt="Trophies"/>
-
-</div>
-
----
-
 ## 🚀 Tech Stack
 
 <div align="center">
