@@ -2,9 +2,9 @@
 
 # Vanderlei Chepanski
 
-**Junior Developer | Laravel Enthusiast | Brazil**
+**Full Stack Developer | Laravel Specialist | Brazil**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=PHP+Developer;Laravel+Enthusiast;Full-Stack+in+Training" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Laravel+Expert;PHP+Specialist" alt="Typing SVG" />
 
 </div>
 
