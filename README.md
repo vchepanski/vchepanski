@@ -12,9 +12,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vchepanski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchepanski&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=8" alt="Top Languages" height="165"/>
+<a href="https://github.com/vchepanski">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vchepanski&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vchepanski&layout=compact&langs_count=8&theme=radical"/>
+</a>
 
 </div>
 
