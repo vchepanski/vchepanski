@@ -21,6 +21,26 @@
 
 ---
 
+<div align="center">
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=vchepanski&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15" alt="Trophies"/>
+
+</div>
+
+---
+
+### 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vchepanski/vchepanski/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vchepanski/vchepanski/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vchepanski/vchepanski/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center">
