@@ -21,6 +21,14 @@
 
 ---
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vchepanski&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center">
